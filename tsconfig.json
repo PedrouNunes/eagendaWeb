@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+      "target": "es2017",
+      "module": "es6",
+      "moduleResolution": "node",
+      "strict": true,
+      "strictPropertyInitialization": false,
+      "noUnusedLocals": false,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "skipLibCheck": true,
+      "rootDir": "./src",
+      "outDir": "./dist"
+  }
+}
+
