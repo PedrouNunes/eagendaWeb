@@ -23,7 +23,6 @@ class ContatoPaginaCadastro implements IPaginaHTML, IPaginaFormulario {
  
        if(contatoSelecionado)
          this.preencherFormulario(contatoSelecionado);
- 
      }
     }
  
